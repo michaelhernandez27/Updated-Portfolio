@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #393f44;
+}
+
+.off-canvas-content {
+    background-color: #ededed;
+    padding-bottom: 15px;
+}
+
+#head2 {
+    background-color:gray;
+    color: #fcfcfc;
+
+}
+
+#my-info {
+    background-color: #292e34;
+    color: #ededed;
+}
+
+#contact {
+    color: white;
+    width: 900px;
+}
+
+
+.thumbnail {
+    max-width: 400;
+    max-height: 400;
+    width: 400;
+    height: 400;
+}
